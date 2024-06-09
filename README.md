@@ -19,6 +19,6 @@
 - Start Typing!
 
 <h3> Screenshots </h3>
-<img src = "https://github.com/ayushseth07/Web-dev-mini-projects/blob/patch/Virtual%20Keyboard/snap.PNG" />
+<img src = "https://github.com/Srivathsa252/Virtual-Keyboard/blob/main/virtual.png" />
 <br>
 
